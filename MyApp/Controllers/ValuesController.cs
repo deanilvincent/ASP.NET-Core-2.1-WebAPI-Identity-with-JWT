@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace MyApp.Controllers
@@ -12,6 +13,7 @@ namespace MyApp.Controllers
     {
         // GET api/values
         [HttpGet]
+        [Authorize(Roles = "NormalUser")]
         public ActionResult<IEnumerable<string>> Get()
         {
             return new string[] { "value1", "value2" };
@@ -19,6 +21,7 @@ namespace MyApp.Controllers
 
         // GET api/values/5
         [HttpGet("{id}")]
+        [Authorize(Policy = "RequireAdminRole")]
         public ActionResult<string> Get(int id)
         {
             return "value";

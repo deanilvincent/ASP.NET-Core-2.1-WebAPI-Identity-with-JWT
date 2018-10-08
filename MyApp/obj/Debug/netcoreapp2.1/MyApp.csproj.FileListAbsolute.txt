@@ -1,0 +1,14 @@
+E:\VS2017\ASP.NET-Core-2.1-WebAPI-Identity-with-JWT\MyApp\bin\Debug\netcoreapp2.1\MyApp.deps.json
+E:\VS2017\ASP.NET-Core-2.1-WebAPI-Identity-with-JWT\MyApp\bin\Debug\netcoreapp2.1\MyApp.runtimeconfig.json
+E:\VS2017\ASP.NET-Core-2.1-WebAPI-Identity-with-JWT\MyApp\bin\Debug\netcoreapp2.1\MyApp.runtimeconfig.dev.json
+E:\VS2017\ASP.NET-Core-2.1-WebAPI-Identity-with-JWT\MyApp\bin\Debug\netcoreapp2.1\MyApp.dll
+E:\VS2017\ASP.NET-Core-2.1-WebAPI-Identity-with-JWT\MyApp\obj\Debug\netcoreapp2.1\MyApp.csprojAssemblyReference.cache
+E:\VS2017\ASP.NET-Core-2.1-WebAPI-Identity-with-JWT\MyApp\obj\Debug\netcoreapp2.1\MyApp.csproj.CoreCompileInputs.cache
+E:\VS2017\ASP.NET-Core-2.1-WebAPI-Identity-with-JWT\MyApp\obj\Debug\netcoreapp2.1\MyApp.RazorAssemblyInfo.cache
+E:\VS2017\ASP.NET-Core-2.1-WebAPI-Identity-with-JWT\MyApp\obj\Debug\netcoreapp2.1\MyApp.RazorAssemblyInfo.cs
+E:\VS2017\ASP.NET-Core-2.1-WebAPI-Identity-with-JWT\MyApp\obj\Debug\netcoreapp2.1\MyApp.AssemblyInfoInputs.cache
+E:\VS2017\ASP.NET-Core-2.1-WebAPI-Identity-with-JWT\MyApp\obj\Debug\netcoreapp2.1\MyApp.AssemblyInfo.cs
+E:\VS2017\ASP.NET-Core-2.1-WebAPI-Identity-with-JWT\MyApp\obj\Debug\netcoreapp2.1\MyApp.RazorTargetAssemblyInfo.cache
+E:\VS2017\ASP.NET-Core-2.1-WebAPI-Identity-with-JWT\MyApp\bin\Debug\netcoreapp2.1\MyApp.pdb
+E:\VS2017\ASP.NET-Core-2.1-WebAPI-Identity-with-JWT\MyApp\obj\Debug\netcoreapp2.1\MyApp.dll
+E:\VS2017\ASP.NET-Core-2.1-WebAPI-Identity-with-JWT\MyApp\obj\Debug\netcoreapp2.1\MyApp.pdb
