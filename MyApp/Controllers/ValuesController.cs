@@ -13,7 +13,7 @@ namespace MyApp.Controllers
     {
         // GET api/values
         [HttpGet]
-        [Authorize(Roles = "NormalUser")]
+        [Authorize(Roles = "NormalUser")] // Authorization Based Authentication
         public ActionResult<IEnumerable<string>> Get()
         {
             return new string[] { "value1", "value2" };
@@ -21,7 +21,7 @@ namespace MyApp.Controllers
 
         // GET api/values/5
         [HttpGet("{id}")]
-        [Authorize(Policy = "RequireAdminRole")]
+        [Authorize(Policy = "RequireAdminRole")] // Policy Based Authentication
         public ActionResult<string> Get(int id)
         {
             return "value";
