@@ -1,5 +1,7 @@
 # ASP.NET Core 2.1 WebAPI Identity with JWT
 
+This project will help you how to setup and install [JWT](https://jwt.io/) as your authentication for your application.
+
 ## Setting up JWT (JSON Web Token) for ASP.NET Core App
 
 ### Startup.cs configuration
